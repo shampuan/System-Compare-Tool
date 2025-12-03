@@ -1,0 +1,11 @@
+Package: system-compare-tool
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-pyqt5
+Maintainer: A. Serhat KILIÇOĞLU <www.github.com/shampuan>
+Description: Dosya Sistemi Karşılaştırma Aracı (System Compare Tool)
+ Bu program, sistem durumunuzun (dosya ve klasörler) kaydını oluşturur
+ ve sonraki bir kaydı karşılaştırarak eklenen, silinen veya
+ değiştirilen öğeleri tespit etmenize olanak tanır.

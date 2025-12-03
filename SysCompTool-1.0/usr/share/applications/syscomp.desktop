@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=System Compare Tool
+Name[tr]=Sistem Karşılaştırma Aracı
+Comment=System monitoring and comparison tool to track file changes.
+Comment[tr]=Dosya değişikliklerini takip etmek için sistem izleme ve karşılaştırma aracı.
+Exec=/usr/share/syscomp/syscomp.py
+Icon=compare0
+Type=Application
+Terminal=false
+Categories=Utility;System;Monitor;
